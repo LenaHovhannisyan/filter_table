@@ -9,7 +9,7 @@ cd app
 >npm start 
 
 
-#Clientside running
+#Client Side running
 
 >npm i
 
