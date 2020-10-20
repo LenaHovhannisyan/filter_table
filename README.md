@@ -1,6 +1,6 @@
 # filter_table
 
-# Node.js server running
+#Node.js server running
 
 cd app
 
@@ -9,7 +9,7 @@ cd app
 >npm start 
 
 
-# Clientside running
+#Clientside running
 
 >npm i
 
