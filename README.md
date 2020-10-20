@@ -2,11 +2,15 @@
 
 # Node.js server running
 
->cd app
+cd app
+
 >npm i
+
 >npm start 
+
 
 # Clientside running
 
 >npm i
+
 >npm start 
